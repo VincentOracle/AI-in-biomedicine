@@ -25,4 +25,4 @@ Table 1 below shows the MSE values obtained for each method on the test set:
 ## Proposed DNN model	0.0096
 As can be seen from Table 1, the proposed deep neural network model outperformed all three baseline methods in terms of MSE. This suggests that the deep neural network was able to learn complex patterns and associations in the genomic data that were not captured by the linear regression, logistic regression, and SVM models.
 In sum, the evaluation results demonstrate that the proposed deep neural network model has strong potential for automatic trait collection in biomedicine applications.
-Presentation
+
