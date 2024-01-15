@@ -1,5 +1,5 @@
 # AI in Biomemdicine
-
+## Aim
 The aim of this entire project is to develop an AI model for automatic collection of new traits, which can enable improved farm management and the selection of genetically superior animals. 
 
 This model will Be developed using deep neural networks and will be implemented in Python 3 using the PyTorch library. 
